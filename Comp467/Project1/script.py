@@ -3,6 +3,7 @@ import csv
 import numpy as np
 
 # opens text files
+
 xytech = open("xytech.txt", "r")
 baselight = open("baselight_export.txt", "r")
 
