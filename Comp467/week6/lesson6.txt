@@ -1,5 +1,0 @@
-This is a text document
-That is going to have multiple lines
-And the best thing about it
-Is that its supposed to work properly
-The total amount of lines should match
